@@ -31,7 +31,7 @@ navigation:
   #   url: /articles/
   #   desc: Stuffs I write about
   - title: Research
-    url: /work/
+    url: /research/
     desc: Stuffs I love to do
   - title: Projects
     url: /projects/
