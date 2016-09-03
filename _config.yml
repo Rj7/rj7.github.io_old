@@ -3,9 +3,7 @@
 # Site settings
 title: Raja               # used for the html title of every page
 desc: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Raja Gunasekaran's github page includes researchs and projects done.
 
 url: rj7.github.com      # put your website hosting url here
 baseurl: ''                 # the subpath of your site, e.g. /blog
@@ -16,7 +14,7 @@ email: r4rajaa@gmail.com
 author: Raja Gunasekaran
 twitter_username: r4rajaa
 github_username: rj7
-github_source: jackal
+github_source: rj7.github.io
 
 # Put your ga tracking code below
 google_analytics: 'UA-XXXXXXXX-X'

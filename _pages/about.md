@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About
-subtitle: I am a smart heading.
-desc: About me.
+title: about Raja Gunasekaran
+subtitle: I Code.
+desc: Research Project and Work experiences of Raja Gunasekaran .
 permalink: /about/
 ---
 
 <div class="pretty-links">
 
-<div class="lead lead-about">Some intro text that is eye catching and should put you reader at ease and confident in your skills.
+<div class="lead lead-about">I am a developer currently studying my master in computer science at UNBC, Canada.
 </div>
 
 {::nomarkdown} 
@@ -17,62 +17,28 @@ permalink: /about/
 </figure>
 {:/}
 
-Neve aethere orbe hic *virginis trunco* in spreto diuque latarumque, mea? Ultima
-sulcum antris conlapsosque potiere curvat Phasias superas adpulit vertex est
-Elei est fumificisque, puniceo? Et dulcis me Argo precibus: haec blanditiae
-[candida](http://murmure.org/.html).
+**Python developer**, interested in NLP and Machine Learning. Currently researching on Tamil Lanuguage Parser.
 
 ---
+## Startup Stint
+Tried my hands on starting a travel startup in 2014, which aimed to be a personal travel assistant and a one stop destination for all travel needs starting from travel planning to the actual travel.
 
-## Quem fata quamvis
+Handled complete development process including architecture design, frontend and **django** backend.
 
-Remisit terrae illud praetendat quod inplicat inter. Volvitur tum, naiades et
-sublimis conde!
+## Skillset
 
-Captum ligno nepotum arisque dimittere
-[maternaque](http://estumectat.net/fugae). Quae maior Typhoeus ramis huius aura
-deprendit instat hirsuta. Miserrima inque: tibi qua, ultimus a Agaue vallibus
-dictos.
+After finish my undergrad Engineering at Anna University, Chennai in Computer Science, I started my professional career at 2012 as a Network Engineer at AGC Networks. Worked on implementing various end to end high availability networks consisting of **APs, Switches, Routers, Controller and Firewalls**. Promoted as Lead-Projects. Handled a project from Project plan to Project Sign off.
 
-1. Perseus est
-2. O Osiris accedat
-3. Repetita usum
+I joined Athenahealth Technologies, a cloud based service provider for health care at 2013, where i worked on web applications in **Perl, JS**.
 
-Nobis esse, *ut* spe, deducunt albentes, quoque, saxo cepit et quid gerebant
-est. Magnae haec quod, iugeribus gemmata. Et ora tua fides ad **causa**, caeno
-hac Iuno crinem artes fidemque: ante **diversa** nullos?
+Then, went into self-discovering mode for year and tried my hands on startup in 2014. Closed the company for lack of funding and joined UNBC for Master in Computer Science.
 
-## Si leti tegit undis quam
+While persuing my master, I worked on a strategy based learning startup. I designed and development web applications using **AngularJS**, **socketIO** with **NodeJS** backend. 
 
-Lorem markdownum caesariem aequore virtus nunc vittas, nec perosus urbem est:
-verba est eripere quater obvertit geminaverat amore. Ac freto. Totidem metu
-lumina penna: pro cera lucis *reposcunt admonita* relinquit indignantibus
-gerentes videt.
+Parallely, I worked in a Publishing company called Angler's Atlas to develop an **Android application** and then on a NLP research project to develop an [Named Entity Recognition](https://en.wikipedia.org/wiki/Named-entity_recognition) solution using **Python**
 
-Et **mixtos alium** adiacet ordine, vidisse nurus: vestem. *Negat notam terra*
-iuvenum manentem messoris *fama* et oblitus referunt osculaque tegemus Talia.
-Corpus prohibebar populos, duo genae quae numine ardua, sexque sibi,
-distuleratque *adversos in* se eodem.
+I am currently researching on **Natural Language processing** using a **Machine Learning** Technique called **Deep Learning**. I am applying these tools and techniques to develop a Tamil language parser.
 
-- Poenas caput
-- Apud placato in extemplo inmemores ambit
-- Mea Cnosiaci atria nascendi sanguis inanem leonis
-- Se versis si Iasonis artis cepit et
-- Senes in idem tegmina
-
-Ibidis plumis; sum ante poteram Menephron nocens illo solebam, iam muneris,
-illo. Remotus coniugis inperfossus ab quam mendaci: illa simulacraque reparatque
-deusve serpentigenis mihi Schoeneia tractu suras. Egit almus et quod, sustinet
-quid solent **semper** corporis quoque Alcmene terra!
-
----
-
-## Abit inque et palato sibila telorum at
-
-Lorem markdownum mirabatur haut, non morte, nisi et sepulcro Exigit, est, per
-illa iusserat memorabile. Pater damus multa, in lucosque carent oculis adsum
-miseris. Moenia experientia pactus palato quinquennem agnae vetusque ipsa
-eloquioque sustulit, parentque monte sanguine steterat Atlas manet.
 
 </div>
 
