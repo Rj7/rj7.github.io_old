@@ -20,6 +20,7 @@ permalink: /about/
 **Python developer**, interested in NLP and Machine Learning. Currently researching on Tamil Lanuguage Parser.
 
 ---
+
 ## Startup Stint
 Tried my hands on starting a travel startup in 2014, which aimed to be a personal travel assistant and a one stop destination for all travel needs starting from travel planning to the actual travel.
 
