@@ -3,9 +3,8 @@ layout: default
 ---
 
 <div class="lead pretty-links">
-  Hi! this is just a sample **intro text**. You would normally put your [full name](about/) here and say something *smart* about yourself.
+  Hi! I'm <b style="color:steelblue" ><i>Raja Gunasekaran</i></b>, a graduate student at UNBC, Canada. I also work as web and mobile application developer. Passionate python dev.
 
-  This could also be the good place to say were you are coming from, what you [do for a living](work/) and maybe what you are [interested in](projects/). You might also be [writing](articles/) about stuff.
+  I love languages <i>(!programming)</i>. I like learning them. I like it even better when machine learns them too. Currently working on teaching my machine to learn Tamil language and its grammar.
 
-  But after all this is your site and I'm just a **placeholder text** so what would i know about some *home page content*.
 </div>
