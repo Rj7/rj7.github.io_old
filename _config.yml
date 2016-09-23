@@ -65,3 +65,6 @@ exclude:
 gems:
   - jekyll-paginate
 
+
+#google services
+google_analytics: UA-84642092-1

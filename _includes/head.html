@@ -24,4 +24,9 @@
   <!-- CSS files -->
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
 
+
+{% if jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
+
 </head>
